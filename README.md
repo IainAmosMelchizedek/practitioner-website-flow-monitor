@@ -1,4 +1,4 @@
-\# Practitioner Website Flow Monitor
+## Practitioner Website Flow Monitor
 
 
 
@@ -10,7 +10,7 @@ A simple, automated system that checks whether a practitioner’s website is wor
 
 
 
-\## What this is
+## What this is
 
 
 
@@ -40,7 +40,7 @@ It runs across:
 
 
 
-\## Why this matters
+## Why this matters
 
 
 
@@ -76,7 +76,7 @@ These issues often go unnoticed and can result in:
 
 
 
-\## What this system does
+## What this system does
 
 
 
@@ -100,7 +100,7 @@ If something breaks, it can be detected early.
 
 
 
-\## What this system does NOT do
+## What this system does NOT do
 
 
 
@@ -126,11 +126,11 @@ Additional access would be required for that level of monitoring.
 
 
 
-\## What is being tested
+## What is being tested
 
 
 
-\### Page checks
+### Page checks
 
 \- Home
 
@@ -154,7 +154,7 @@ Each page is checked to ensure:
 
 
 
-\### Newsletter signup check
+### Newsletter signup check
 
 
 
@@ -202,7 +202,7 @@ It is powerful because it shows whether your website works for real people.
 
 
 
-\### Important limitation
+### Important limitation
 
 
 
@@ -224,7 +224,7 @@ It cannot confirm:
 
 
 
-\### What is possible with internal monitoring
+### What is possible with internal monitoring
 
 
 
@@ -276,7 +276,7 @@ In the technical world, this is often called:
 
 
 
-\### Why this matters
+### Why this matters
 
 
 
@@ -306,7 +306,7 @@ With monitoring:
 
 
 
-\### Plain language summary
+### Plain language summary
 
 
 
@@ -324,7 +324,7 @@ But the same approach can be tailored to work inside your system, where it becom
 
 
 
-\## How to run locally
+## How to run locally
 
 
 
@@ -370,7 +370,7 @@ npx playwright show-report
 
 
 
-\## How to adapt this for another website
+## How to adapt this for another website
 
 
 
@@ -402,7 +402,7 @@ npx playwright show-report
 
 
 
-\## Who this is for
+## Who this is for
 
 
 
@@ -424,7 +424,7 @@ It is meant to be simple, readable, and adaptable.
 
 
 
-\## Plain language summary
+## Plain language summary
 
 
 
